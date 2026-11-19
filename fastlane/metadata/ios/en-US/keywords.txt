@@ -1,0 +1,1 @@
+unblock,slide,escape,block,puzzle,brain,offline
