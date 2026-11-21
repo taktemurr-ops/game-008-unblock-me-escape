@@ -1,11 +1,11 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_008_unblock_me_escape/core/clock.dart';
-import 'package:game_008_unblock_me_escape/core/game_rules.dart';
-import 'package:game_008_unblock_me_escape/core/game_session.dart';
-import 'package:game_008_unblock_me_escape/core/level_plan.dart';
-import 'package:game_008_unblock_me_escape/core/rng.dart';
-import 'package:game_008_unblock_me_escape/core/save_store.dart';
-import 'package:game_008_unblock_me_escape/core/telemetry.dart';
+import 'package:studio_core/core/clock.dart';
+import 'package:studio_core/core/game_rules.dart';
+import 'package:studio_core/core/game_session.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
+import 'package:studio_core/core/save_store.dart';
+import 'package:studio_core/core/telemetry.dart';
 import 'package:game_008_unblock_me_escape/game/rules.dart';
 
 /// 24-month operation simulation (doc 6, 10, 12): a virtual player opens
