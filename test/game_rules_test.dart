@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_008_unblock_me_escape/core/level_plan.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_008_unblock_me_escape/game/rules.dart';
 import 'package:game_008_unblock_me_escape/game/unblock_engine.dart';
 

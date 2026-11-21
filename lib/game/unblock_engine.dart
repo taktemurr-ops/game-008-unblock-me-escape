@@ -1,7 +1,7 @@
 import 'dart:collection';
 
-import '../core/level_plan.dart';
-import '../core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 
 const int kBoard = 6;
 const int kExitRow = 2;
